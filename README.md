@@ -7,4 +7,4 @@ t  -   number of sample DNA sequences
 n  -   length of each DNA sequence
 DNA - sample of DNA sequences (t x n array)
 
-l  -   length of the motif (l-mer)
+l  -   length of the motif
