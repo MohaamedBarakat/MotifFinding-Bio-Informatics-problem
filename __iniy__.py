@@ -1,1 +1,1 @@
-from .motifinding import Motifs
+from motifinding import Motifs
